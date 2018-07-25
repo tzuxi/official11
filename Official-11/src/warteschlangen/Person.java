@@ -17,5 +17,5 @@ public class Person {
 	public int getAlter() {
 		return alter;
 	}
-	//lol
+	
 }
